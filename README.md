@@ -1,6 +1,3 @@
-Link to [RPubs](http://rpubs.com/saptarsi/PML_ProjectReport) page so that the compiled HTML page describing the analysis can be viewed online
-
-
 Practical Machine Learning Project
 ==================================================================
 
@@ -42,3 +39,5 @@ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 
 
 The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment.
+
+Link to [RPubs](http://rpubs.com/saptarsi/PML_ProjectReport) page so that the compiled HTML page describing the analysis can be viewed online
