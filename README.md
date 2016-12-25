@@ -1,4 +1,4 @@
-Link to **[RPubs]**(http://rpubs.com/saptarsi/PML_ProjectReport) page so that the compiled HTML page describing the analysis can be viewed online
+Link to **(RPubs)**[http://rpubs.com/saptarsi/PML_ProjectReport]page so that the compiled HTML page describing the analysis can be viewed online
 
 
 Practical Machine Learning Project
